@@ -21,6 +21,7 @@
 7. [API Reference](#7-api-reference)
 8. [How to Run](#8-how-to-run)
 9. [Environment Variables](#9-environment-variables)
+10. [Screenshots](#10-screenshots)
 
 ---
 
@@ -597,3 +598,21 @@ curl -X POST http://localhost:5000/api/tickets \
 ---
 
 *Built with the zero-cost architecture mandate — no paid cloud services, no proprietary map APIs.*
+
+---
+
+## 10. Screenshots
+
+<div align="center">
+  <img src="docs/images/landing.png" alt="Landing Page" width="800"/>
+  <br><i>Landing Page</i><br><br>
+
+  <img src="docs/images/report-issue.png" alt="Report an Issue" width="800"/>
+  <br><i>Report an Issue Form</i><br><br>
+
+  <img src="docs/images/map.png" alt="Live Civic Map" width="800"/>
+  <br><i>Live Civic Map</i><br><br>
+
+  <img src="docs/images/login.png" alt="Representative Login" width="800"/>
+  <br><i>Representative Login</i><br><br>
+</div>

@@ -77,6 +77,24 @@ npm run dev
 
 ---
 
+## 🖼️ Screenshots
+
+<div align="center">
+  <img src="docs/images/landing.png" alt="Landing Page" width="800"/>
+  <br><i>Landing Page</i><br><br>
+
+  <img src="docs/images/report-issue.png" alt="Report an Issue" width="800"/>
+  <br><i>Report an Issue Form</i><br><br>
+
+  <img src="docs/images/map.png" alt="Live Civic Map" width="800"/>
+  <br><i>Live Civic Map</i><br><br>
+
+  <img src="docs/images/login.png" alt="Representative Login" width="800"/>
+  <br><i>Representative Login</i><br><br>
+</div>
+
+---
+
 ## 📸 Demo Credentials
 
 To access the Representative Dashboard (`/login`):
