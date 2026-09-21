@@ -114,4 +114,4 @@ To access the Representative Dashboard (`/login`):
 ---
 
 ### Developed By
-**Swarna Tripathi** & Antigravity AI
+**Coders Adda**
